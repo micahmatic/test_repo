@@ -4,13 +4,13 @@
 username = raw_input("Login: >> ")
 
 #list of allowed users
-user1 = "Jack"
-user2 = "Jill"
+user1 = "Micah"
+user2 = "Jan"
 
 #control that the user belongs to the list of allowed users
 if username == user1:
     print "Access granted"
 elif username == user2:
-    print "Welcome to AWS"
+    print "Welcome to AWS!!"
 else:
     print "Access denied"
