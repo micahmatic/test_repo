@@ -11,6 +11,6 @@ user2 = "Jan"
 if username == user1:
     print "Access granted"
 elif username == user2:
-    print "Welcome to AWS!!"
+    print "Welcome to AWS system!!"
 else:
     print "Access denied"
