@@ -1,4 +1,2 @@
-test_repo
-=========
+Test Repository to demonstrate Jira and Github integration.
 
-This is a test.
