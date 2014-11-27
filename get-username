@@ -4,7 +4,7 @@
 username = raw_input("Login: >> ")
 
 #list of allowed users
-user1 = "Micah"
+user1 = "Jack"
 user2 = "Jan"
 
 #control that the user belongs to the list of allowed users
